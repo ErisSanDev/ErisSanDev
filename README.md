@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm ErisSanDev</h1>
-<h3 align="center">Data Analyst | AI-Powered Analytics | Insight Driven | Gworth Mindset Person</h3>
+<h3 align="center">Data Analyst | AI-Powered Analytics | Insight Driven | Growth Mindset Person</h3>
 
 ---
 
